@@ -1,0 +1,1 @@
+import{b6 as a,bF as u,r as t,aO as c}from"./index-CZcV1F_p.js";function f(o){const e=a(()=>u(o)),{isStatic:s}=t.useContext(c);if(s){const[,n]=t.useState(o);t.useEffect(()=>e.on("change",n),[])}return e}export{f as u};
