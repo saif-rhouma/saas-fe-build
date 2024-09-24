@@ -1,0 +1,1 @@
+import{q as l,eu as m,r as t,ev as x,j as s}from"./index-Bm3rBIkL.js";const p=({permission:e,children:c})=>{const{user:o}=l(),{permissions:r}=m(),[i,n]=t.useState(!1);console.log(e);const a=t.useCallback(u=>r.includes(u),[r]);return t.useEffect(()=>{o.roles[0]===x.STAFF?n(a(e)):n(!0)},[e,a,o.roles]),i?s.jsx(s.Fragment,{children:c}):s.jsx(s.Fragment,{})};export{p as P};
