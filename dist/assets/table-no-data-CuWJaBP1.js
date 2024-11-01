@@ -1,0 +1,1 @@
+import{j as o}from"./index-1idvz3yo.js";import{E as a}from"./empty-content-BU4LmDZm.js";import{T as e}from"./table-head-custom-DSZhWeF0.js";import{T as r}from"./TableCell-0df9VpO9.js";function i({notFound:t,sx:s}){return o.jsx(e,{children:t?o.jsx(r,{colSpan:12,children:o.jsx(a,{filled:!0,sx:{py:10,...s}})}):o.jsx(r,{colSpan:12,sx:{p:0}})})}export{i as T};
