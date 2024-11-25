@@ -1,0 +1,1 @@
+import{h as l,e4 as m,r as e,e5 as x,j as s}from"./index-CsblB989.js";const p=({permission:t,children:i})=>{const{user:r}=l(),{permissions:o}=m(),[c,n]=e.useState(!1),a=e.useCallback(u=>o.includes(u),[o]);return e.useEffect(()=>{r.roles[0]===x.STAFF?n(a(t)):n(!0)},[t,a,r.roles]),c?s.jsx(s.Fragment,{children:i}):s.jsx(s.Fragment,{})};export{p as P};
