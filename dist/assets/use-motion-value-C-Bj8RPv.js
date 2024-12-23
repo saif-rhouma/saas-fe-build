@@ -1,0 +1,1 @@
+import{aI as n,aL as u,r as t,ao as c}from"./index-CC8ZOXtA.js";function f(o){const e=n(()=>u(o)),{isStatic:s}=t.useContext(c);if(s){const[,a]=t.useState(o);t.useEffect(()=>e.on("change",a),[])}return e}export{f as u};
