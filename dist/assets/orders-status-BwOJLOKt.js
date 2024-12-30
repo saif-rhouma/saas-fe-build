@@ -1,0 +1,1 @@
+const e="Orders Status",t="Column fixed",r={"In Process":"In Process","Ready to Deliver":"Ready to Deliver",Delivered:"Delivered"},d={orderDate:"Order Date:",deliveryDate:"Delivery Date:",lastUpdate:"Last Updated Date:",products:"Products"},s={title:e,columnFixed:t,columns:r,card:d};export{d as card,t as columnFixed,r as columns,s as default,e as title};

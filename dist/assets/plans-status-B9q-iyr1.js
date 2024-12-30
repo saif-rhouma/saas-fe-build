@@ -1,0 +1,1 @@
+const t="Plans Status",e="Column fixed",a={"In Process":"In Process","Ready to Deliver":"Ready to Deliver",Delivered:"Delivered"},s={planDate:"Plan Date:",quantity:"Quantity:",lastUpdate:"Last Updated Date:",products:"Products"},n={title:t,columnFixed:e,columns:a,card:s};export{s as card,e as columnFixed,a as columns,n as default,t as title};

@@ -1,0 +1,1 @@
+const e="حالة الطلبات",t="العمود ثابت",o={"In Process":"قيد المعالجة","Ready to Deliver":"جاهز للتسليم",Delivered:"تم التسليم"},s={orderDate:"تاريخ الطلب:",deliveryDate:"تاريخ التسليم:",lastUpdate:"تاريخ آخر تحديث:",products:"المنتجات"},c={title:e,columnFixed:t,columns:o,card:s};export{s as card,t as columnFixed,o as columns,c as default,e as title};

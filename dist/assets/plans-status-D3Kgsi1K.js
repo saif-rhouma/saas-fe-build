@@ -1,0 +1,1 @@
+const t="حالة الخطط",e="العمود ثابت",s={"In Process":"قيد التنفيذ","Ready to Deliver":"جاهز للتسليم",Delivered:"تم التسليم"},c={planDate:"تاريخ الخطة:",quantity:"الكمية:",lastUpdate:"تاريخ آخر تحديث:",products:"المنتجات"},n={title:t,columnFixed:e,columns:s,card:c};export{c as card,e as columnFixed,s as columns,n as default,t as title};
